@@ -11,6 +11,8 @@ This project implements a Knowledge Base (KB) Retrieval and Question-Answering (
    - **ROUGE-L**: Measures sentence-level coherence and structural similarity.
    - **BERTScore**: Evaluates factual consistency by leveraging semantic embeddings.
 
+Evaluation_csv spreadsheet results - https://docs.google.com/spreadsheets/d/129YqWOVyEDVHwDbziYvo2dWVgH2X4I9lypLBm8DDsg8/edit?usp=sharing
+
 ## Features
 
 - **Efficient Retrieval**: Utilizes TF-IDF and Cosine Similarity to find relevant entries for user queries.
